@@ -1,6 +1,6 @@
 # Weekly Learning Log - [Week X] (DD/MM - DD/MM)
 
-## 📅 DD MM (Saturday)
+## 📅 DD/MM (Saturday)
 ### 📝 Topics Covered
 - JS Object & Prototype Class (Revision)
 

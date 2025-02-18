@@ -1,7 +1,9 @@
 # Weekly Learning Log - [Week 01] (11 Jan - 17 Jan)
 
+#### [ << GO Back to WeeklyLogs](../WeeklyLogs.md) 
+
 ## 📅 11 Jan (Saturday)
-### 📝 ChaiCode Class 1 - Hello word
+### 👨🏻‍🏫 ChaiCode Class 1 - Hello word
 - introduction to Cohort, Alumni platform
 - Basic concept and some tech jargon covered
     - HTTP, Header
@@ -24,11 +26,11 @@
 - Node.js, VS code, some extenstions installed ( basically setup for the cohort)
 - Intro to Hashnode, github
 
-### ✅ Tasks Completed
+### ✅ Completed
 - Today i just explore alumni platfrom, because section over at 10:35 pm, and after that i complete the hashnode article
 
 ### 📌 Notes & Reflections  
-- Write an Hashnode article on [git and github for Company employees](https://dev-cohort.hashnode.dev/git-github-guide-for-company-employees)
+- i write an article on HashNode [git and github for Company employees](https://dev-cohort.hashnode.dev/git-github-guide-for-company-employees)
 
 ---
 

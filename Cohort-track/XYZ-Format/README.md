@@ -1,6 +1,8 @@
 *This folder (XYZ-Format) contain all the required files that are useful to decorate/formate/guideline for repo.*
 *mean its basically for myself & for the users who want to create a similar way to manage/ track their activities. *
 
+#### [ << GO Back to WeeklyLogs](../WeeklyLogs.md)
+
 [format1.md file](./format1.md) - **contain format for each week README file**
 
 [format2.md file](./format2.md) - **contain format for all weeks (weaklyLogs) README file**

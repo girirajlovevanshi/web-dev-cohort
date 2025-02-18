@@ -1,6 +1,8 @@
-# Weekly Learning Log - [Week X] (DD MM - DD MM)
+# Weekly Learning Log - [Week 06] (15 Feb - 21 Feb)
 
-## 📅 DD MM (Saturday)
+#### [ << GO Back to WeeklyLogs](../WeeklyLogs.md)
+
+## 📅 15 Feb (Saturday)
 ### 📝 Topics Covered
 - JS Object & Prototype Class (Revision)
 
@@ -10,7 +12,7 @@
 
 ---
 
-## 📅 DD MM (Sunday)
+## 📅 16 Feb (Sunday)
 ### 📝 Topics Covered
 - Revision & Publishing Daily Activities on GitHub
 - Class Revision (02 MM Session)
@@ -24,7 +26,7 @@
 
 ---
 
-## 📅 DD MM (Monday)
+## 📅 17 Feb (Monday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -33,7 +35,7 @@
 
 ---
 
-## 📅 DD MM (Tuesday)
+## 📅 18 Feb (Tuesday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -42,7 +44,17 @@
 
 ---
 
-## 📅 DD MM (Wednesday)
+## 📅 19 Feb (Wednesday)
+### ✅ Covered
+- Revision of JS Objects and Prototypes
+  - 
+
+### 📝 Completed
+- [Add completed tasks here]
+
+---
+
+## 📅 DD/MM (Thursday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -51,16 +63,7 @@
 
 ---
 
-## 📅 DD MM (Thursday)
-### 📝 Topics Covered
-- [Add topics here]
-
-### ✅ Tasks Completed
-- [Add completed tasks here]
-
----
-
-## 📅 DD MM (Friday)
+## 📅 DD/MM (Friday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -76,7 +79,7 @@
 
 ## 📅 Template for Future Logs  
 ```md
-## 📅 DD MM (Day: Weekday)
+## 📅 DD/MM (Day: Weekday)
 ### 📝 Topics Covered
 - Topic 1  
 - Topic 2  
