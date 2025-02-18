@@ -8,7 +8,13 @@ I'm managing my **daily learning and practice** on **GitHub** by documenting eve
 
 Each week, I create a **weekly learning log** where I record the topics I covered, the tasks I completed, and useful resources.  
 
-You can explore my **weekly logs** below. 🚀  
+### 📌 [Week X (DD MM - DD MM)](./weekX/README.md)  
+**Topics Covered:** *Topic names*  
+
+### 📌 [Week X (DD MM - DD MM)](./weekX/README.md)  
+**Topics Covered:** *Topic names*  
+
+You can explore more [**weekly logs here🚀**](WeeklyLogs.md)
 
 ---
 
