@@ -1,18 +1,15 @@
-# 🙏 Thank You, Hitesh Sir & Piyush Sir!  
-
-I sincerely thank **Hitesh Sir** and **Piyush Sir** for their valuable teachings and guidance. Their mentorship has helped me strengthen my concepts and improve my coding skills.  
-
-## 📖 My Learning Journey  
-
+# 📖 My Learning Journey  
 I'm managing my **daily learning and practice** on **GitHub** by documenting everything in a structured format. This helps me track my progress, revisit concepts, and improve consistently.  
+Each week, I create a **weekly learning log** where I record the topics I covered, the tasks I completed, and useful resources.
 
-Each week, I create a **weekly learning log** where I record the topics I covered, the tasks I completed, and useful resources.  
+## 🙏 Thank You, Hitesh Sir & Piyush Sir!  
+I sincerely thank my teachers **Hitesh Sir** and **Piyush Sir** for their valuable teachings and guidance. Their mentorship has helped me strengthen my concepts and improve my coding skills.    
 
 ### 📌 [Week 01 (11 Jan - 17 Jan)](./Cohort-track/week01%2011Jan-17Jan/README.md)  
-**Topics Covered:** *Topic names*  
+**Overview:** **  
 
 ### 📌 [Week 02 (18 Jan - 24 Jan)](./Cohort-track/week02%2018Jan-24Jan/)  
-**Topics Covered:** *Topic names*  
+**Overview:** **  
 
 You can explore more [**weekly logs here🚀**](./Cohort-track/WeeklyLogs.md)
 

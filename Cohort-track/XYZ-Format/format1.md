@@ -1,90 +1,35 @@
-# Weekly Learning Log - [Week X] (DD/MM - DD/MM)
+## 📅 Weekly Learning Logs  
 
-## 📅 DD/MM (Saturday)
-### 📝 Topics Covered
-- JS Object & Prototype Class (Revision)
+#### [ << Back to Home](../README.md)
 
-### ✅ Tasks Completed
-- Revised concepts of **Object & Prototype**
-- Practiced examples & implementation
+### 📌 [Week 01 (11/01 - 17/01)](./weekX/README.md)  
+**Overview:** *Topic names*  
 
----
+### 📌 [Week 02 (18/01 - 24/01)](./weekX/README.md)  
+**Overview:** *Topic names* 
 
-## 📅 DD/MM (Sunday)
-### 📝 Topics Covered
-- Revision & Publishing Daily Activities on GitHub
-- Class Revision (02 MM Session)
-- Object & Array Practice Questions
+### 📌 [Week 03 (25/01 - 31/01)](./weekX/README.md)  
+**Overview:** *Topic names* 
 
-### ✅ Tasks Completed
-- Revised **02 MM class notes**
-- Solved **20 practice questions** on Objects & Arrays  
-  - 🔗 [Questions](../week04%2001-07/Object%20&%20array%20pratice%20que.md)  
-  - 🔗 [Answers](../week04%2001-07/Object%20&%20array%20pratice.js)  
+### 📌 [Week 04 (01/02 - 07/02)](./weekX/README.md)  
+**Overview:** *Topic names* 
 
----
+### 📌 [Week 05 (08/02 - 14/02)](./weekX/README.md)  
+**Overview:** *Topic names* 
 
-## 📅 DD/MM (Monday)
-### 📝 Topics Covered
-- [Add topics here]
+### 📌 [Week 06 (DD/MM - DD/MM)](./weekX/README.md)  
+**Overview:** *Topic names* 
 
-### ✅ Tasks Completed
-- [Add completed tasks here]
+### 📌 [XYZ-Format, weekX](./XYZ-Format/README.md)  
+**Overview:** *folder (XYZ-Format & weekX) conatins  all the required files that are useful to decorate/formate/guideline for repo.*
+mean its basically for myself & for the users who want to create a similar way to manage/ track their activities.
 
----
+_(More weeks will be added as I progress!)_  
 
-## 📅 DD/MM (Tuesday)
-### 📝 Topics Covered
-- [Add topics here]
+```
+### 📌 [Week X (DD/MM - DD/MM)](./weekX/README.md)  
+**Overview:** *Topic names*  
 
-### ✅ Tasks Completed
-- [Add completed tasks here]
+```
 
 ---
-
-## 📅 DD/MM (Wednesday)
-### 📝 Topics Covered
-- [Add topics here]
-
-### ✅ Tasks Completed
-- [Add completed tasks here]
-
----
-
-## 📅 DD/MM (Thursday)
-### 📝 Topics Covered
-- [Add topics here]
-
-### ✅ Tasks Completed
-- [Add completed tasks here]
-
----
-
-## 📅 DD/MM (Friday)
-### 📝 Topics Covered
-- [Add topics here]
-
-### ✅ Tasks Completed
-- [Add completed tasks here]
-
----
-
-## 📌 Notes & Reflections  
-*(Optional section for key learnings, challenges, or insights)*  
-
----
-
-## 📅 Template for Future Logs  
-```md
-## 📅 DD/MM (Day: Weekday)
-### 📝 Topics Covered
-- Topic 1  
-- Topic 2  
-
-### ✅ Tasks Completed
-- Task 1  
-- Task 2  
-  - 🔗 [Resource Link]  
-
-### 📌 Notes & Reflections  
-_(Optional)_

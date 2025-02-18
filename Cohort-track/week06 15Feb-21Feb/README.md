@@ -46,8 +46,8 @@
 
 ## 📅 19 Feb (Wednesday)
 ### ✅ Covered
-- Revision of JS Objects and Prototypes
-  - 
+- Revision of JS Objects, array, classses in Javascript
+  - Know about QUOKKA extension ( Allow run code automatically helps in debug)
 
 ### 📝 Completed
 - [Add completed tasks here]
