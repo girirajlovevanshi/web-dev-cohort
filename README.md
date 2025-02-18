@@ -31,7 +31,7 @@ If you're also on a learning journey, feel free to follow along! 🚀
 
 ### ✨ About Me  
 
-👋 Hi, I'm **Giri** from **[Chaicode.com](https://chaicode.com/)**. I'm passionate about **Full-Stack Development** and **AI**.  
+👋 Hi, I'm **Giri**. I'm passionate about **Full-Stack Development** and **AI**.  
 I believe in **consistent learning**, **building projects**, and **sharing knowledge** with the community.  
 
 Let's connect and grow together! 😊  
