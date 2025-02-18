@@ -8,10 +8,10 @@ I'm managing my **daily learning and practice** on **GitHub** by documenting eve
 
 Each week, I create a **weekly learning log** where I record the topics I covered, the tasks I completed, and useful resources.  
 
-### 📌 [Week X (DD MM - DD MM)](./weekX/README.md)  
+### 📌 [Week 01 (11 Jan - 17 Jan)](./Cohort-track/week01%2011Jan-17Jan/README.md)  
 **Topics Covered:** *Topic names*  
 
-### 📌 [Week X (DD MM - DD MM)](./weekX/README.md)  
+### 📌 [Week 02 (18 Jan - 24 Jan)](./Cohort-track/week02%2018Jan-24Jan/)  
 **Topics Covered:** *Topic names*  
 
 You can explore more [**weekly logs here🚀**](./Cohort-track/WeeklyLogs.md)

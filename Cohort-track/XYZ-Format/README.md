@@ -1,4 +1,4 @@
-*This folder contaweek00/README.mdins all the required files that are useful to decorate/formate/guideline for repo.*
+*This folder (XYZ-Format) contain all the required files that are useful to decorate/formate/guideline for repo.*
 *mean its basically for myself & for the users who want to create a similar way to manage/ track their activities. *
 
 [format1.md file](./format1.md) - **contain format for each week README file**
