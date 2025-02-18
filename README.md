@@ -14,7 +14,7 @@ Each week, I create a **weekly learning log** where I record the topics I covere
 ### 📌 [Week X (DD MM - DD MM)](./weekX/README.md)  
 **Topics Covered:** *Topic names*  
 
-You can explore more [**weekly logs here🚀**](WeeklyLogs.md)
+You can explore more [**weekly logs here🚀**](./Cohort-track/WeeklyLogs.md)
 
 ---
 
