@@ -36,9 +36,9 @@ I believe in **consistent learning**, **building projects**, and **sharing knowl
 
 Let's connect and grow together! 😊  
 
-🔗 **Portfolio:** [chaicode.com](https://chaicode.com/)  
+🔗 **Portfolio:** [giriraj.dev](https://giriraj.dev/)  
 🔗 **GitHub:** [github.com/girirajlovevanshi](https://github.com/girirajlovevanshi)  
-
+🔗 **LinkedIn:** [linkedin.com/in/giriraj-lovevanshi](https://www.linkedin.com/in/giriraj-lovevanshi)  
 ---
 
 📌 *This repository will be regularly updated with my learning logs.*  
