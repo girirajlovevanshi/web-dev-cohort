@@ -1,8 +1,7 @@
 ## 📅 Weekly Learning Logs  
 
-### 📌 [Week 00 (DD/MM - DD/MM)](./week00%20Reserved/README.md)  
-**Topics Covered:** *this folder contaweek00/README.mdins all the required files that are useful to decorate/formate/guideline for repo.*
-mean its basically for myself & for the users who want to create a similar way to manage/ track their activities.
+### 📌 [Week 00 (DD/MM - DD/MM)](./weekX/README.md)  
+**Topics Covered:** *Topic names*  
 
 ### 📌 [Week 01 (DD/MM - DD/MM)](./weekX/README.md)  
 **Topics Covered:** *Topic names*  

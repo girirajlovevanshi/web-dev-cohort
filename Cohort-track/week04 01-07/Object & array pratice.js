@@ -123,6 +123,16 @@ Check if a key exists:
 Write a function hasKey(obj, key) that checks if a given key exists in an object and returns true or false.
 */
 
+let hasKey = (obj, searchedKey)=>{
+    return obj.hasOwnProperty(searchedKey)
+};
+
+console.log(hasKey(user, "name"));
+
+let hasKey2 = (obj, searchedKey) => searchedKey in obj;
+
+console.log(hasKey2(user, "email"));
+
 
 /*
 Merge two objects:
@@ -132,6 +142,7 @@ let obj1 = { a: 1, b: 2 };
 let obj2 = { b: 3, c: 4 };
 Merge them into a new object where b should have the value from obj2.
 */
+
 
 
 /*
