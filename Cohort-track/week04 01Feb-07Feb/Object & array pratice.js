@@ -70,7 +70,6 @@ Add "orange" to the end of the fruits array and "grapes" to the beginning. Print
 */
 fruits.push("orange");
 fruits.unshift("grapes");
-
 console.log(fruits);
 
 /*

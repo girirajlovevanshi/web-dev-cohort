@@ -6,6 +6,7 @@
 
 ### 📝 Chaicode class - 9 Objects, array, classses in Javascript
 - Know about QUOKKA extension ( Allow run code automatically helps in debug)
+- How to create Object, accessing values of an object, 
 
 
 ### ✅ Covered

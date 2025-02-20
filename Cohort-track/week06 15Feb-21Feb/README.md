@@ -46,8 +46,7 @@
 
 ## 📅 19 Feb (Wednesday)
 ### ✅ Covered
-- Revision of JS Objects, array, classses in Javascript
-  - Know about QUOKKA extension ( Allow run code automatically helps in debug)
+- Complete all the challanges of chaicode ( topic  objects)
 
 ### 📝 Completed
 - [Add completed tasks here]
