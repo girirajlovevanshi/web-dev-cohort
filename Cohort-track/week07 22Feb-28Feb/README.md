@@ -28,7 +28,7 @@
 
 ## 📅 24 Feb (Monday)
 ### 📝 Topics Covered
-- a alumni platfrom friend trying to solve a bug in his code ( toggle the bulb on-off), i solve the issue [Files](./day24/light-drag-onoff/)
+- a alumni platfrom friend trying to solve a bug in his code ( toggle the bulb on-off), i solve the issue [Files](./day24/alumini-help/light-drag-onoff/)
 - Proxy In Deep
 - Promices with piyush sir
 
