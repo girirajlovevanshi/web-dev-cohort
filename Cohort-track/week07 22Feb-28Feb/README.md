@@ -28,7 +28,7 @@
 
 ## 📅 24 Feb (Monday)
 ### 📝 Topics Covered
-- a alumni platfrom friend trying to solve a bug in his code ( toggle the bulb on-off), i solve the issue [Files](./day24/alumini-help/light-drag-onoff/)
+- a alumni platfrom friend trying to solve a bug in his code ( toggle the bulb on-off), i solve the issue [Files](./day25/alumini-help/light-drag-onoff/) {i take final action on 25 Feb }
 - Proxy In Deep
 - Promices with piyush sir
 
@@ -48,7 +48,7 @@
 - Write An Article on HashNode- [श्वेता and राधिका conversation about JavaScript Event Handling](https://dev-cohort.hashnode.dev/shavata-and-rathhaka-conversation-about-javascript-event-handling)
 - Take lecutre about Projects and mashine coding round ( 3 hour live class by hitesh sir and piyush sir)
 - Aptitute pratice about simple and compount interest
-- i Learn new thing by myself [adding submodule in git, ](./day24/alumini-help/readme.md)
+- i Learn new thing by myself [adding submodule in git, ](./day25/alumini-help/readme.md)
 
 ---
 
