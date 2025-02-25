@@ -11,6 +11,10 @@ I sincerely thank my teachers **Hitesh Sir** and **Piyush Sir** for their valuab
 ### 📌 [Week 02 (18 Jan - 24 Jan)](./Cohort-track/week02%2018Jan-24Jan/)  
 **Overview:** **  
 
+### Current Week
+### 📌 [Week 07 (22 Feb - 28 Feb)](./Cohort-track/week07%2022Feb-28Feb/README.md)  
+**Overview:** *Mashine coding, JS Event Handling, promises*  
+
 You can explore more [**weekly logs here🚀**](./Cohort-track/WeeklyLogs.md)
 
 ---

@@ -28,20 +28,26 @@
 
 ## 📅 24 Feb (Monday)
 ### 📝 Topics Covered
-- [Add topics here]
+- a alumni platafrom frined trying to solve a bug in his code ( toggle the bulb on-off), i solve the issue [Files](./day24/light-drag-onoff/)
+- Proxy In Deep
+- Promices with piyush sir
 
 ### ✅ Tasks Completed
-- [Add completed tasks here]
+- Take lecutre about JS projects and behind scene ( 3 hour live class by hitesh sir and piyush sir)
+
 
 ---
 
 ## 📅 25 Feb (Tuesday)
 ### 📝 Topics Covered
 - JavaScript Event Handling with pratice 
-[simple JS Events  example](./day25/article/code1.html) [A Basic Event Listener](./day25/article/code2.html) [Multiple Events, Multiple Listeners](./day25/article/code3.html) [Bubbling and Capturing](./day25/article/code4.html) [3 examples color changing, stop link redirection, Form Submission with Validation:](./day25/article/code5.html) and exploring other articles (mentioned in my hashnode article)
+[simple JS Events  example](./day25/article/code1.html) [A Basic Event Listener, ](./day25/article/code2.html) [Multiple Events, Multiple Listeners, ](./day25/article/code3.html) [Bubbling and Capturing, ](./day25/article/code4.html) [3 examples color changing, stop link redirection, Form Submission with Validation, ](./day25/article/code5.html) and exploring other articles (mentioned in my hashnode article)
+- Promices in Deep 
 
 ### ✅ Tasks Completed
 - Write An Article on HashNode- [श्वेता and राधिका conversation about JavaScript Event Handling](https://dev-cohort.hashnode.dev/shavata-and-rathhaka-conversation-about-javascript-event-handling)
+- Take lecutre about Projects and mashine coding round ( 3 hour live class by hitesh sir and piyush sir)
+- Aptitute about simple and compount intrest
 
 ---
 

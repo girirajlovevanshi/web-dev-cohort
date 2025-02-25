@@ -17,8 +17,11 @@
 ### 📌 [Week 05 (08/02 - 14/02)](./weekX/README.md)  
 **Overview:** *Topic names* 
 
-### 📌 [Week 06 (DD/MM - DD/MM)](./weekX/README.md)  
+### 📌 [Week 06 (15/02 - 21/02)](./week06%2015Feb-21Feb/README.md)  
 **Overview:** *Topic names* 
+
+### 📌 [Week 06 (22/02 - 28/02)](./week07%2022Feb-28Feb/README.md)  
+**Overview:** *JavaScript Event Handling, Mashine coding, promises*
 
 ### 📌 [XYZ-Format, weekX](./XYZ-Format/README.md)  
 **Overview:** *folder (XYZ-Format & weekX) conatins  all the required files that are useful to decorate/formate/guideline for repo.*
