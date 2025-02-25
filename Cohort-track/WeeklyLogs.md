@@ -20,7 +20,7 @@
 ### 📌 [Week 06 (15/02 - 21/02)](./week06%2015Feb-21Feb/README.md)  
 **Overview:** *Topic names* 
 
-### 📌 [Week 06 (22/02 - 28/02)](./week07%2022Feb-28Feb/README.md)  
+### 📌 [Week 07 (22/02 - 28/02)](./week07%2022Feb-28Feb/README.md)  
 **Overview:** *JavaScript Event Handling, Mashine coding, promises*
 
 ### 📌 [XYZ-Format, weekX](./XYZ-Format/README.md)  
