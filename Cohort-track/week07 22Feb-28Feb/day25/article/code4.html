@@ -1,0 +1,103 @@
+<!--3. Bubbling और Capturing: How Events Travel Through the DOM-->
+<!-- 3.1 Bubbling Example-->
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="outerDiv" style="background: lightblue; padding: 50px;">
+        <div id="innerDiv" style="background: pink; padding: 30px;">
+            <button id="registerBtn">Click to Register</button>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById("outerDiv").addEventListener("click", function () {
+            alert("Outer Div Clicked!");
+        });
+
+        document.getElementById("innerDiv").addEventListener("click", function () {
+            alert("Inner Div Clicked!");
+        });
+
+        document.getElementById("registerBtn").addEventListener("click", function () {
+            alert("Button Clicked!");
+        });
+    </script>
+</body>
+
+</html> -->
+
+<!--Capturing Mode-->
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="outerDiv" style="background: lightblue; padding: 50px;">
+        <div id="innerDiv" style="background: pink; padding: 30px;">
+            <button id="registerBtn">Click to Register</button>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById("outerDiv").addEventListener("click", function () {
+            alert("Outer Div Captured First!");
+        }, true);
+
+        document.getElementById("innerDiv").addEventListener("click", function () {
+            alert("Inner Div Clicked!");
+        });
+
+        document.getElementById("registerBtn").addEventListener("click", function () {
+            alert("Button Clicked!");
+        });
+    </script>
+</body>
+
+</html> -->
+
+<!--stopPropagation-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="outerDiv" style="background: lightblue; padding: 50px;">
+        <div id="innerDiv" style="background: pink; padding: 30px;">
+            <button id="registerBtn">Click to Register</button>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById("outerDiv").addEventListener("click", function () {
+            alert("Outer Div Captured First!");
+        });
+
+        document.getElementById("innerDiv").addEventListener("click", function () {
+            alert("Inner Div Clicked!");
+        });
+
+        document.getElementById("registerBtn").addEventListener("click", function (e) {
+            alert("Button Clicked!");
+            e.stopPropagation();
+        });
+    </script>
+</body>
+
+</html>

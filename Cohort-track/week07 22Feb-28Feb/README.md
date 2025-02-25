@@ -37,7 +37,8 @@
 
 ## 📅 25 Feb (Tuesday)
 ### 📝 Topics Covered
-- [Add topics here]
+- JavaScript Event Handling with pratice 
+[simple JS Events  example](./day25/article/code1.html) [A Basic Event Listener](./day25/article/code2.html) [Multiple Events, Multiple Listeners](./day25/article/code3.html) [Bubbling and Capturing](./day25/article/code4.html) [3 examples color changing, stop link redirection, Form Submission with Validation:](./day25/article/code5.html) and exploring other articles (mentioned in my hashnode article)
 
 ### ✅ Tasks Completed
 - Write An Article on HashNode- [श्वेता and राधिका conversation about JavaScript Event Handling](https://dev-cohort.hashnode.dev/shavata-and-rathhaka-conversation-about-javascript-event-handling)

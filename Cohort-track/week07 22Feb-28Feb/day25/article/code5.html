@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!--Example 1-->
+    <div id="parentBox" style="padding: 100px; background: red;"><div id="box" style="width:100px; height:100px; background:gray;"></div></div>
+    <script>
+        document.getElementById("box").addEventListener("click", function (e) {
+            this.style.background = (this.style.background === "gray") ? "green" : "gray";
+            e.stopPropagation();// Ab yeh box ke parent ko affect nahin karega
+        });
+        document.getElementById("parentBox").addEventListener("click",function(){
+            this.style.background = (this.style.background === "gray") ? "green" : "gray";
+        })
+
+    </script>
+    <!--Example 2-->
+    <a href="https://example.com" id="myLink">Go to Example</a>
+    <script>
+      document.getElementById("myLink").addEventListener("click", function(e) {
+        e.preventDefault(); // Default link navigation रोक दिया if you comment thispage redirect hoga
+        alert("Default link behavior stopped. Ab page redirect nahin hoga!");
+      });
+    </script>
+    <!--Example 3-->
+    <form id="rsvpForm">
+        <input type="text" id="guestName" placeholder="Enter your name" />
+        <button type="submit">RSVP</button>
+      </form>
+      <script>
+        document.getElementById("rsvpForm").addEventListener("submit", function(e) {
+          let name = document.getElementById("guestName").value;
+          if(!name) {
+            alert("Please enter your name before submitting!");
+            e.preventDefault(); // Form submission रोक दिया
+          } else {
+            alert("Thank you for RSVP, " + name + "!");
+          }
+        });
+      </script>
+</body>
+
+</html>

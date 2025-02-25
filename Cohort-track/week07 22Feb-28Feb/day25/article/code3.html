@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<!--Multiple Events, Multiple Listeners-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="playMusicBtn">Play Sangeet Music</button>
+    <p id="message">Hi,</p>
+<audio id="sangeetAudio" src="sangeet.mp3"></audio>
+<script>
+  const playMusicBtn = document.getElementById("playMusicBtn");
+  const sangeetAudio = document.getElementById("sangeetAudio");
+  const message = document.getElementById("message");
+
+  playMusicBtn.addEventListener("mouseover", function(){
+    message.innerText = "You Hover Over Music Play Button"
+  });
+  playMusicBtn.addEventListener("click", function() {
+    sangeetAudio.play();
+    alert("Music Baj Raha Hai! Enjoy the Sangeet!");
+  });
+</script>
+</body>
+</html>
