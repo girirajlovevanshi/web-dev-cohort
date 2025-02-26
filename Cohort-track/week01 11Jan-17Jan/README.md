@@ -37,7 +37,7 @@
 ## 📅 12 Jan (Sunday)
 ### 📝 Topics Covered
 - Attend Class "Introduction to web"
-OSI Model
+OSI Model - 7 layer model
   physical layer
   Data Link
   Network layer
@@ -45,6 +45,17 @@ OSI Model
   Session layer
   presentation layer
   Application layer
+TCP/IP Model 
+  Link layer
+  Network layer
+  Transport layer
+  Application layer
+TCP - Reliable, Ordered, 3-way handshake
+UDP - unreliable, unordered and does not use a handshake
+
+HTTP - hypertext transport protocol
+
+
 
 ---
 
