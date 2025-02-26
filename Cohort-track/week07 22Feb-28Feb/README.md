@@ -54,10 +54,10 @@
 
 ## 📅 26 Feb (Wednesday)
 ### ✅ Covered
-- Complete all the challanges of chaicode ( topic  objects)
-
+- Attend a class of 3 hours on "Mashine coding & resources" 
+- Learn Props 
 ### 📝 Completed
-- [Add completed tasks here]
+- start working on an article "Handing Time Sensitive code - asynchronous"
 
 ---
 

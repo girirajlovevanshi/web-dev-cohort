@@ -36,18 +36,15 @@
 
 ## 📅 12 Jan (Sunday)
 ### 📝 Topics Covered
-- Revision & Publishing Daily Activities on GitHub
-- Class Revision (02 MM Session)
-- Object & Array Practice Questions
-
-### ✅ Tasks Completed
-- today i'm also explore .git file and how git hash a file.
-- i recall and pratice git commands that are used most of time, 
-- explore github codespace, github file cloning, push , marging a file, implemaing rules on a file and such type of topics related to git and github in more deep and revise my old knowlage
-- i also update my node version and vs code also, so because i want to ignore diff version issuess that i can face in future time during this course.
-
-### 📌 Notes & Reflections  
-
+- Attend Class "Introduction to web"
+OSI Model
+  physical layer
+  Data Link
+  Network layer
+  Transport layer
+  Session layer
+  presentation layer
+  Application layer
 
 ---
 
