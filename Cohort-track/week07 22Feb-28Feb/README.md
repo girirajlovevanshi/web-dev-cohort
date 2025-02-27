@@ -69,13 +69,13 @@
 
 ### ✅ Tasks Completed
 - Attend Averages, Mixtures, and Allegation - Aptitude ( Round 1 )
+- write and article on ["Closure" In Javascript ]()
 
 ---
 
 ## 📅 28 Feb (Friday)
 ### 📝 Topics Covered
-- [Add topics here]
-
+- [solve Questions on Closures](./day27/Closures-Practice/ClosuresQue.md)
 ### ✅ Tasks Completed
 - [Add completed tasks here]
 
