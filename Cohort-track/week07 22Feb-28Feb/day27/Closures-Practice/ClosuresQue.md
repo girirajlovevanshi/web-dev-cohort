@@ -21,7 +21,7 @@ counter.increment(); // 2
 counter.decrement(); // 1
 console.log(counter.getCount()); // 1
 ```
-[Answer Not Done yet by ME]()
+[Answer](ans1.js)
 
 ---
 
@@ -46,7 +46,7 @@ myAccount.withdraw(200); // Balance: 1300
 console.log(myAccount.checkBalance()); // 1300
 console.log(myAccount.balance); // Undefined (Should not be accessible)
 ```
-[Answer Not Done yet by ME]()
+[Answer](ans2.js)
 
 ---
 
@@ -62,7 +62,7 @@ const triple = createMultiplier(3);
 console.log(double(5)); // 10
 console.log(triple(5)); // 15
 ```
-[Answer Not Done yet by ME]()
+[Answer](ans3.js)
 
 ---
 
