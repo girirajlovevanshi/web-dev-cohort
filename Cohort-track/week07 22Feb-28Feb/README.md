@@ -65,10 +65,10 @@
 
 ## 📅 27 Feb (Thursday)
 ### 📝 Topics Covered
-- [Add topics here]
+- [Averages, Mixtures, and Allegation - Aptitude Guide](./day27/Averages-Mixtures-and-Allegation-Aptitude-Guide.md)
 
 ### ✅ Tasks Completed
-- [Add completed tasks here]
+- Attend Averages, Mixtures, and Allegation - Aptitude ( Round 1, )
 
 ---
 
