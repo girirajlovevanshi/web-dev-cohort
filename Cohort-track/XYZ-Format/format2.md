@@ -1,4 +1,4 @@
-## 📅 Weekly Learning Logs  
+## &#128198; Weekly Learning Logs  
 
 ### 📌 [Week 00 (DD/MM - DD/MM)](./weekX/README.md)  
 **Topics Covered:** *Topic names*  

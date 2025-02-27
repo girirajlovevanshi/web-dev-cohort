@@ -2,7 +2,7 @@
 
 #### [ << GO Back to WeeklyLogs](../WeeklyLogs.md) 
 
-## 📅 11 Jan (Saturday)
+## &#128198; 11 Jan (Saturday)
 ### 👨🏻‍🏫 ChaiCode Class 1 - Hello word
 - introduction to Cohort, Alumni platform
 - Basic concept and some tech jargon covered
@@ -34,7 +34,7 @@
 
 ---
 
-## 📅 12 Jan (Sunday)
+## &#128198; 12 Jan (Sunday)
 ### 📝 Topics Covered
 - Attend Class "Introduction to web"
 OSI Model - 7 layer model
@@ -59,7 +59,7 @@ HTTP - hypertext transport protocol
 
 ---
 
-## 📅 DD/MM (Monday)
+## &#128198; DD/MM (Monday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -68,7 +68,7 @@ HTTP - hypertext transport protocol
 
 ---
 
-## 📅 DD/MM (Tuesday)
+## &#128198; DD/MM (Tuesday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -77,7 +77,7 @@ HTTP - hypertext transport protocol
 
 ---
 
-## 📅 DD/MM (Wednesday)
+## &#128198; DD/MM (Wednesday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -86,7 +86,7 @@ HTTP - hypertext transport protocol
 
 ---
 
-## 📅 DD/MM (Thursday)
+## &#128198; DD/MM (Thursday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -95,7 +95,7 @@ HTTP - hypertext transport protocol
 
 ---
 
-## 📅 DD/MM (Friday)
+## &#128198; DD/MM (Friday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -109,9 +109,9 @@ HTTP - hypertext transport protocol
 
 ---
 
-## 📅 Template for Future Logs  
+## &#128198; Template for Future Logs  
 ```md
-## 📅 DD/MM (Day: Weekday)
+## &#128198; DD/MM (Day: Weekday)
 ### 📝 Topics Covered
 - Topic 1  
 - Topic 2  

@@ -1,4 +1,4 @@
-## 📅 Weekly Learning Logs  
+## &#128198; Weekly Learning Logs  
 
 #### [ << Back to Home](../README.md)
 
