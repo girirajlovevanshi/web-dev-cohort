@@ -21,6 +21,7 @@ counter.increment(); // 2
 counter.decrement(); // 1
 console.log(counter.getCount()); // 1
 ```
+[Answer Not Done yet by ME]()
 
 ---
 
@@ -45,6 +46,7 @@ myAccount.withdraw(200); // Balance: 1300
 console.log(myAccount.checkBalance()); // 1300
 console.log(myAccount.balance); // Undefined (Should not be accessible)
 ```
+[Answer Not Done yet by ME]()
 
 ---
 
@@ -60,6 +62,7 @@ const triple = createMultiplier(3);
 console.log(double(5)); // 10
 console.log(triple(5)); // 15
 ```
+[Answer Not Done yet by ME]()
 
 ---
 
@@ -72,6 +75,7 @@ Create a function `delayedLogger(message, delay)` that logs `message` to the con
 ```javascript
 delayedLogger("Hello, World!", 2000); // Logs "Hello, World!" after 2 seconds
 ```
+[Answer Not Done yet by ME]()
 
 ---
 
@@ -85,6 +89,7 @@ Create a function `buttonClickHandler(buttonId, message)` that adds a click even
 buttonClickHandler("myButton", "Button clicked!");
 // Clicking the button with id "myButton" should log "Button clicked!"
 ```
+[Answer Not Done yet by ME]()
 
 ---
 
@@ -92,5 +97,6 @@ buttonClickHandler("myButton", "Button clicked!");
 
 Modify the `bankAccount()` function to support multiple accounts without conflicts.
 
-Good luck mastering closures! 🚀
+[Answer Not Done yet by ME]()
 
+Good luck ! 🚀

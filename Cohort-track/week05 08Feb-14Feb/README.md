@@ -2,7 +2,7 @@
 
 #### [ << GO Back to WeeklyLogs](../WeeklyLogs.md)
 
-## 📅 08 Feb (Saturday)
+## 🗓️ 08 Feb (Saturday)
 
 ### 📝 Chaicode class - 9 Objects, array, classses in Javascript
 - Know about QUOKKA extension ( Allow run code automatically helps in debug)
@@ -19,7 +19,7 @@
 
 ---
 
-## 📅 09 Feb (Sunday)
+## 🗓️ 09 Feb (Sunday)
 ### ✅ Covered
 - [Add completed tasks here]
 

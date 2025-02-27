@@ -1,6 +1,6 @@
 # Weekly Learning Log - [Week 4] (DD MM - DD MM)
 
-## 📅 DD MM (Saturday)
+## 🗓️ DD MM (Saturday)
 ### 📝 Topics Covered
 - JS Object & Prototype Class (Revision)
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 📅 DD MM (Sunday)
+## 🗓️ DD MM (Sunday)
 ### 📝 Topics Covered
 - Revision & Publishing Daily Activities on GitHub
 - Class Revision (02 MM Session)
@@ -24,7 +24,7 @@
 
 ---
 
-## 📅 DD MM (Monday)
+## 🗓️ DD MM (Monday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 📅 DD MM (Tuesday)
+## 🗓️ DD MM (Tuesday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 📅 DD MM (Wednesday)
+## 🗓️ DD MM (Wednesday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 📅 DD MM (Thursday)
+## 🗓️ DD MM (Thursday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 📅 DD MM (Friday)
+## 🗓️ DD MM (Friday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -74,9 +74,9 @@
 
 ---
 
-## 📅 Template for Future Logs  
+## 🗓️ Template for Future Logs  
 ```md
-## 📅 DD MM (Day: Weekday)
+## 🗓️ DD MM (Day: Weekday)
 ### 📝 Topics Covered
 - Topic 1  
 - Topic 2  

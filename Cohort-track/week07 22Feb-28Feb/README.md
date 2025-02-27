@@ -2,7 +2,7 @@
 
 #### [ << GO Back to WeeklyLogs](../WeeklyLogs.md)
 
-## 📅 22 Feb (Saturday)
+## �️ 22 Feb (Saturday)
 ### 📝 Topics Covered
 - JS Object & Prototype Class (Revision)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📅 23 Feb (Sunday)
+## �️ 23 Feb (Sunday)
 ### 📝 Topics Covered
 - Revision & Publishing Daily Activities on GitHub
 - Class Revision (02 MM Session)
@@ -26,7 +26,7 @@
 
 ---
 
-## 📅 24 Feb (Monday)
+## �️ 24 Feb (Monday)
 ### 📝 Topics Covered
 - a alumni platfrom friend trying to solve a bug in his code ( toggle the bulb on-off), i solve the issue [Files](./day25/alumini-help/light-drag-onoff/) {i take final action on 25 Feb }
 - Proxy In Deep
@@ -38,7 +38,7 @@
 
 ---
 
-## 📅 25 Feb (Tuesday)
+## �️ 25 Feb (Tuesday)
 ### 📝 Topics Covered
 - JavaScript Event Handling with pratice 
 [simple JS Events  example, ](./day25/article/code1.html) [A Basic Event Listener, ](./day25/article/code2.html) [Multiple Events, Multiple Listeners, ](./day25/article/code3.html) [Bubbling and Capturing, ](./day25/article/code4.html) [3 examples color changing, stop link redirection, Form Submission with Validation, ](./day25/article/code5.html) and exploring other articles (mentioned in my hashnode article)
@@ -54,7 +54,7 @@
 
 ---
 
-## 📅 26 Feb (Wednesday)
+## �️ 26 Feb (Wednesday)
 ### ✅ Covered
 - Attend a class of 3 hours on "Mashine coding & resources" 
 - Learn Props 
@@ -63,17 +63,17 @@
 
 ---
 
-## 📅 27 Feb (Thursday)
+## �️ 27 Feb (Thursday)
 ### 📝 Topics Covered
 - [Averages, Mixtures, and Allegation - Aptitude Guide](./day27/Averages-Mixtures-and-Allegation-Aptitude-Guide.md)
 
 ### ✅ Tasks Completed
 - Attend Averages, Mixtures, and Allegation - Aptitude ( Round 1 )
-- write and article on ["Closure" In Javascript ]()
+- write and article on ["Closure" In Javascript ](https://dev-cohort.hashnode.dev/closure-in-javascript)
 
 ---
 
-## 📅 28 Feb (Friday)
+## �️ 28 Feb (Friday)
 ### 📝 Topics Covered
 - [solve Questions on Closures](./day27/Closures-Practice/ClosuresQue.md)
 ### ✅ Tasks Completed
@@ -86,9 +86,9 @@
 
 ---
 
-## 📅 Template for Future Logs  
+## �️ Template for Future Logs  
 ```md
-## 📅 DD/MM (Day: Weekday)
+## �️ DD/MM (Day: Weekday)
 ### 📝 Topics Covered
 - Topic 1  
 - Topic 2  

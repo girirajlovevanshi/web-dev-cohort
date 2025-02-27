@@ -2,7 +2,7 @@
 
 #### [ << GO Back to WeeklyLogs](../WeeklyLogs.md)
 
-## 📅 15 Feb (Saturday)
+## 🗓️ 15 Feb (Saturday)
 ### 📝 Topics Covered
 - JS Object & Prototype Class (Revision)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📅 16 Feb (Sunday)
+## 🗓️ 16 Feb (Sunday)
 ### 📝 Topics Covered
 - Revision & Publishing Daily Activities on GitHub
 - Class Revision (02 MM Session)
@@ -26,7 +26,7 @@
 
 ---
 
-## 📅 17 Feb (Monday)
+## 🗓️ 17 Feb (Monday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 📅 18 Feb (Tuesday)
+## 🗓️ 18 Feb (Tuesday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 📅 19 Feb (Wednesday)
+## 🗓️ 19 Feb (Wednesday)
 ### ✅ Covered
 - Complete all the challanges of chaicode ( topic  objects)
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 📅 DD/MM (Thursday)
+## 🗓️ DD/MM (Thursday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 📅 DD/MM (Friday)
+## 🗓️ DD/MM (Friday)
 ### 📝 Topics Covered
 - [Add topics here]
 
@@ -76,9 +76,9 @@
 
 ---
 
-## 📅 Template for Future Logs  
+## 🗓️ Template for Future Logs  
 ```md
-## 📅 DD/MM (Day: Weekday)
+## 🗓️ DD/MM (Day: Weekday)
 ### 📝 Topics Covered
 - Topic 1  
 - Topic 2  
