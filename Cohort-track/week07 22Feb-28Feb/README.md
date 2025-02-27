@@ -43,12 +43,14 @@
 - JavaScript Event Handling with pratice 
 [simple JS Events  example, ](./day25/article/code1.html) [A Basic Event Listener, ](./day25/article/code2.html) [Multiple Events, Multiple Listeners, ](./day25/article/code3.html) [Bubbling and Capturing, ](./day25/article/code4.html) [3 examples color changing, stop link redirection, Form Submission with Validation, ](./day25/article/code5.html) and exploring other articles (mentioned in my hashnode article)
 - Promices in Deep 
+- [Simple and Compound Interest - Aptitude](./day25/simple-compound-interest-aptitude/aptitudePre.md)
 
 ### ✅ Tasks Completed
 - Write An Article on HashNode- [श्वेता and राधिका conversation about JavaScript Event Handling](https://dev-cohort.hashnode.dev/shavata-and-rathhaka-conversation-about-javascript-event-handling)
 - Take lecutre about Projects and mashine coding round ( 3 hour live class by hitesh sir and piyush sir)
 - Aptitute pratice about simple and compount interest
 - i Learn new thing by myself [adding submodule in git, ](./day25/alumini-help/readme.md)
+- attend Simple and Compound Interest - Aptitude Test Round -1 ( socre 7, rank 3rd require more pratice)
 
 ---
 
