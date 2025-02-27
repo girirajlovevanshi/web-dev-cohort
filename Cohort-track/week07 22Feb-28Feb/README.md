@@ -50,7 +50,7 @@
 - Take lecutre about Projects and mashine coding round ( 3 hour live class by hitesh sir and piyush sir)
 - Aptitute pratice about simple and compount interest
 - i Learn new thing by myself [adding submodule in git, ](./day25/alumini-help/readme.md)
-- attend Simple and Compound Interest - Aptitude Test Round -1 ( socre 7, rank 3rd require more pratice)
+- attend Simple and Compound Interest - Aptitude Test Round -1
 
 ---
 
@@ -68,7 +68,7 @@
 - [Averages, Mixtures, and Allegation - Aptitude Guide](./day27/Averages-Mixtures-and-Allegation-Aptitude-Guide.md)
 
 ### ✅ Tasks Completed
-- Attend Averages, Mixtures, and Allegation - Aptitude ( Round 1, )
+- Attend Averages, Mixtures, and Allegation - Aptitude ( Round 1 )
 
 ---
 
