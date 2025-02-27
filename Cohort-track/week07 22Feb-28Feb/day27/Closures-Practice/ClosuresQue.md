@@ -75,7 +75,7 @@ Create a function `delayedLogger(message, delay)` that logs `message` to the con
 ```javascript
 delayedLogger("Hello, World!", 2000); // Logs "Hello, World!" after 2 seconds
 ```
-[Answer Not Done yet by ME]()
+[Answer](ans4.js)
 
 ---
 
@@ -89,14 +89,22 @@ Create a function `buttonClickHandler(buttonId, message)` that adds a click even
 buttonClickHandler("myButton", "Button clicked!");
 // Clicking the button with id "myButton" should log "Button clicked!"
 ```
-[Answer Not Done yet by ME]()
+[Answer html file](ans5.html),
+[ JS file](ans5.js)
 
 ---
 
 ## **Bonus Challenge**
 
 Modify the `bankAccount()` function to support multiple accounts without conflicts.
+```javascript
+// Test Cases
+account1.deposit(500); // Balance: 1500
+account2.withdraw(1000); // Balance: 1000
 
-[Answer Not Done yet by ME]()
+console.log(account1.checkBalance()); // 1500
+console.log(account2.checkBalance()); // 1000
+[Answer](bonus1.js)
+```
 
 Good luck ! 🚀
